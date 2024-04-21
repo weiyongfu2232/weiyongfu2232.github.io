@@ -9,9 +9,9 @@ title: Hobbies
 ## 音乐
 
 <div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/毕业表演.jpg">
+<img src="/images/on the way.jpg">
+
 </div>
 <br>音乐是我生活中重要的一部分
 
