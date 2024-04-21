@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future:** East China Normal University
+- **Sep 2023 - Future:** East China Normal University
 - **Sep 2019 - June 2023:** Anhui University 
 
 
