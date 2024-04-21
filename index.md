@@ -10,7 +10,7 @@ Here is **Yongfu Wei**.
 
 I am a graduate student majoring in **Path Representation** at East China Normal University. 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *weiyongfu2232@163[dot]com*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *weiyongfu2232@163.com*
 
 ## Academic Background
 
